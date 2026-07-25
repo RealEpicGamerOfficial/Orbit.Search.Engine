@@ -12,7 +12,7 @@ NO, this is not a 'search engine', but uses keywords and creates a link for a se
 
 ### Search Settings
 SafeSearch (coming soon, currently built-in and can't be disabled)
-Selected Engine (3 Options, more coming soon)
+Selected Engine (8 Options, more coming soon)
 Advanced Search Settings (currently work, menu coming soon)
 
 ### Overall Info (and Sales Pitch)
